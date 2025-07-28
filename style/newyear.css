@@ -1,0 +1,204 @@
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.merriweather-normal {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.banner{
+max-width: 1320px;
+border-radius: 16px;
+box-shadow: 0px 4px 4px 0px black;
+margin: 0 auto;
+display: block;
+
+}
+.banner-title{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+}
+.banner-subtitle{
+    font-size: 24px;
+    font-weight: 500px;
+    color: #FF0000;
+    margin-top: 48px;
+}
+.banner-mean{
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+    margin-top: 16px;
+}
+.first-part{
+  
+    width: 50%;
+    margin-top: 120px;
+    margin-left: 400px;
+    max-width: 800px;
+}
+.photo{
+    margin: 0 auto;
+
+}
+.second-part{
+    text-align: center;
+}
+/* Third-part */
+.third-part{
+    position: relative;
+    text-align: center;
+  
+}
+.bottom{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    margin: 126px 552px 298px 110px;
+    width: 642px;
+    height: 176px;
+    font-size: 64px;
+    font-weight: black;
+    color: #FFFFFF;
+}
+.paragraph{
+    font-size: 16px;
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    margin: 326px 497px 214px 110px;
+    margin-top: 24px;
+    width: 700px;
+
+}
+.short-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    margin: 434px 900px 142px 158px;
+}
+/* banner */
+.banner2{
+    font-size: 32px;
+    font-weight: 600px;
+    color: #070211;
+}
+.banner2-color{
+    color: #FF0000;
+}
+.buton{
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #FF0000;
+    border-radius: 8px;
+    padding: 16px 32px;
+    margin: 48px 190px;
+}
+.bangla{
+    margin: 0 auto;
+    max-width: 1320px;
+    height: 480px;
+    background-color: #FFEBEB;
+    margin-top: 120px;
+    border-radius: 15px;
+    gap: 70px;
+}
+.english{
+    padding: 110px 380px;
+}
+
+/* banner3.0 */
+.ban-subtitle{
+    font-size: 24px;
+    font-weight: 500px;
+    margin-top: 224px;
+    /* width: 393px; */
+    
+    
+    
+
+}
+.ban-title{
+    font-size: 48px;
+    font-weight: black;
+    color: #070211;
+    
+
+}
+.ban-description{
+    font-size: 20px;
+    color: #070211;
+    margin-top: 22px;
+}
+.bang-title{
+    font-size: 48px;
+    font-weight: bold;
+    color: #FF0000;
+    margin-top: 232px;
+    
+    
+}
+.bang-description{
+    font-size: 20px;
+    color: #070211;
+    margin-top: 16px;
+}
+.image-title{
+    margin-top: 43px;
+}
+.bang-easy{
+    max-width: 1320px;
+    margin: 0 auto;
+    display: flex;
+    height: 463px;
+    
+   
+}
+.border{ 
+    width: 463px;
+    height: 463px;
+    border: 10px solid #FF0000;
+    display: flex;
+    margin-top: 120px;
+    border-radius: 50%;
+    padding: 20px;
+    margin-left: 70px;
+    margin-right: 118px;
+    
+}
+/* infinity level */
+.title-infinity{
+    font-size: 24px;
+    font-weight: 500px;
+    color: #070211;
+
+}
+.subtitle-infinity{
+    font-size: 72px;
+    font-weight: black;
+    color: #070211;
+
+}
+.discription-infinity{
+    font-size: 20px;
+    font-weight: 500px;
+    color: #070211;
+}
+.banner-infinity{
+    margin-top: 120px;
+}
+ 
+ 
