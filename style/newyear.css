@@ -21,6 +21,41 @@ margin: 0 auto;
 display: block;
 
 }
+.container{
+    position: relative;
+   text-align: center;
+   
+}
+.text-block{
+    position: absolute;
+    width: 632px;
+    height: 246px;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -80%);
+   text-align: center;
+  
+}
+.physics{
+    font-size: 32px;
+    color: #FFFFFF;
+    /* font-weight: black; */
+    text-align: center;
+    margin-top:px;
+
+}
+.waiver{
+    font-size: 72px;
+    /* font-weight: black; */
+    color: #FFFFFF;
+    margin-top: 16px;
+}
+.marjin{
+    margin: 0 auto;
+    max-width: 1320px;
+    margin-bottom: 120px;
+  
+}
 .banner-title{
     font-size: 88px;
     font-weight: bold;
@@ -38,26 +73,52 @@ display: block;
     color: #070211;
     margin-top: 16px;
 }
-.first-part{
-  
-    width: 50%;
-    margin-top: 120px;
-    margin-left: 400px;
-    max-width: 800px;
-}
 .photo{
     margin: 0 auto;
+    display: block;
 
 }
+
+
+.first-part{
+  margin: 0 auto;
+    width: 50%;
+    margin-top: 120px;
+    
+    max-width: 800px;
+
+}
+
 .second-part{
     text-align: center;
 }
+
 /* Third-part */
+.oval-shape{
+position: relative;
+
+}
+.image3{
+position: relative;
+
+}
+.image4{
+position: absolute;
+top: 68px;
+right: 138px;
+}
+.fact-check{
+    margin: 0 auto;
+}
 .third-part{
     position: relative;
     text-align: center;
+    margin-top: 120px;
+    max-width: 1320px;
+    margin: 0 auto;
   
 }
+
 .bottom{
     position: absolute;
     bottom: 8px;
@@ -164,6 +225,7 @@ display: block;
     margin: 0 auto;
     display: flex;
     height: 463px;
+   
     
    
 }
@@ -180,10 +242,16 @@ display: block;
     
 }
 /* infinity level */
+.upper-section{
+    max-width: 1070px;
+    margin: 0 auto;
+    text-align: center;
+}
 .title-infinity{
     font-size: 24px;
     font-weight: 500px;
     color: #070211;
+    margin-top: 320px;
 
 }
 .subtitle-infinity{
@@ -198,7 +266,133 @@ display: block;
     color: #070211;
 }
 .banner-infinity{
-    margin-top: 120px;
+    margin: 0 auto;
+    max-width: 1320px;
+    
 }
- 
- 
+
+.backgra{
+    background-color: transparent;
+    background: none;
+
+}
+.lower-section{
+    object-fit: none;
+   float: right;
+}
+ .image1{
+    position: absolute;
+    margin-top: 497px;
+ }
+ .image2{
+    position: absolute;
+    margin-bottom: 90px;
+    
+ }
+ .card-section{
+    max-width: 1320px;
+    margin: 0 auto;
+    
+ }
+ .card-subtitle{
+    margin-top: 900px;
+    font-size: 24px;
+    font-weight: 500px;
+    color: #FF0000;
+ }
+ .card-title{
+    font-size: 48px;
+    font-weight: black;
+    color: #070211;
+    margin-top: 16px;
+ }
+ .card-description{
+    font-size: 20px;
+    color: #070211;
+    margin-top: 22px;
+ }
+ .card-photo{
+    margin-top: 48px;
+ }
+
+ /* Group- section */
+ .group-section{
+    max-width: 1320px;
+    margin: 0 auto;
+    background-color: #FFEBEB;
+    border-radius: 16px;
+    margin-top: 120px;
+ }
+ .group-photo{
+   display: block;
+   margin: auto;
+ }
+ .group-title{
+    text-align: center;
+    font-size: 48px;
+    font-weight: black;
+    color: #070211;
+ }
+ .group-description{
+    text-align: center;
+    font-size: 20px;
+    color: #070211;
+   
+ }
+ .group-button{
+    margin: 0 auto;
+    text-align: center;
+    
+    
+ }
+form input[type='text']{
+    height: 72px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    width: 50%;
+ }
+ /* footer-section */
+ .footer-section{
+    display: flex;
+    max-width: 1320px;
+    margin: 0 auto;
+    justify-content: space-between;
+    color: #FFFFFF;
+    /* margin-top: 240px; */
+
+ }
+ .back-color{
+    background-color: #070211;
+    max-width: 1600px;
+    height: 610px;
+    margin-top: 120px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 120px;
+ }
+ .footer-pera{
+  margin-top: 120px;  
+ }
+ .beside{
+    margin-top: 120px;
+ }
+ .border-line{
+    max-width: 1320px;
+    text-align: center;
+    margin-top: 50px;
+ }
+ .icon{
+    text-align: center;
+    margin-top: 48px;
+ }
+ .last-option{
+    font-size: 24px;
+    font-weight: 500px;
+    color: #FFFFFF;
+ }
+ .icpc{
+    max-width: 1320px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+ }
